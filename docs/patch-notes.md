@@ -5,3 +5,4 @@
 - patch 4 — cipher verdant — markdown studio
 - patch 5 — cipher verdant — markdown studio
 - patch 6 — cipher verdant — markdown studio
+- patch 7 — cipher verdant — markdown studio
